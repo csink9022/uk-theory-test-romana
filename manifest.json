@@ -1,0 +1,9 @@
+{
+  "name": "UK Theory Test Română",
+  "short_name": "Theory RO",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1677ff",
+  "description": "English + Romanian UK driving theory practice"
+}
